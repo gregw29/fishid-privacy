@@ -1,2 +1,2 @@
-# fishiid-privacy
+# fishid-privacy
 Privacy Policy for FishID app
